@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FirstMobileApp.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="homebutton" TargetType="Button">
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="BorderColor" Value="White"/>
+                <Setter Property="BorderWidth" Value="1"/>
+                <Setter Property="BackgroundColor" Value="blue"/>
+                <Setter Property="CornerRadius" Value="10"/>
+                <Setter Property="FontAttributes" Value="Italic"/>
+                <Setter Property="FontSize" Value="Medium"/>
+                
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout Margin="15,10,15,10" >
+        
+        <!-- Place new controls here -->
+        <Label Text="                        Welcome to My First Mobile App! 
+
+               
+           Click on the next button to enjoy some of the pictures I've captured abroad." 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label Text="Created By: Biniam Tesfamariam"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+
+
+        <Button Text="Next Page" Clicked="Button_Clicked" Style="{StaticResource homebutton}"/>
+        
+
+    </StackLayout>
+</ContentPage>

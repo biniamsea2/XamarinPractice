@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FirstMobileApp.Page1">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="homebutton" TargetType="Button">
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="BorderColor" Value="White"/>
+                <Setter Property="BorderWidth" Value="1"/>
+                <Setter Property="BackgroundColor" Value="blue"/>
+                <Setter Property="CornerRadius" Value="10"/>
+                <Setter Property="FontAttributes" Value="Italic"/>
+
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+
+    <StackLayout Margin="15,0,15,50" Spacing="10">
+
+
+        <Button Text="Next Page" Clicked="Button_Clicked" Style="{StaticResource homebutton}"/>
+        <Button Text="Home" Clicked="Button_Home" Style="{StaticResource homebutton}"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Image Source="e1.jpg"></Image>
+            <Label />
+
+        </Grid>
+
+    </StackLayout>
+</ContentPage>
