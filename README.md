@@ -43,9 +43,9 @@ Then select and open ```FirstMobileApp.sln```
 ![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/20191210_200751%5B1%5D.jpg)
 ### Home Screen
 ![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-200704%5B1%5D.jpg)
-### Images
-![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192741%5B1%5D.jpg)
 ### Mexico
+![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192741%5B1%5D.jpg)
+### Red Sea
 ![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192745%5B1%5D.jpg)
 ### Eritrea
 ![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192754%5B1%5D.jpg)
