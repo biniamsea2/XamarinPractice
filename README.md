@@ -48,7 +48,7 @@ Then select and open ```FirstMobileApp.sln```
 ### Images
 ![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192745%5B1%5D.jpg)
 ### Images
-![Image 1]https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192754%5B1%5D.jpg)
+![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192754%5B1%5D.jpg)
 
 ---
 
