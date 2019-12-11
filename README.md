@@ -23,7 +23,7 @@ For this specific project I created an application that will display to the user
 Clone this repository to your local machine.
 
 ```
-$ git clone https://github.com/biniamsea2/Async-Inn.git
+$ https://github.com/biniamsea2/XamarinPractice.git
 ```
 
 ### To run the program from Visual Studio:
@@ -31,7 +31,7 @@ Select ```File``` -> ```Open``` -> ```Project/Solution```
 
 Next navigate to the location you cloned the Repository.
 
-Double click on the ```Async-Inn``` directory.
+Double click on the ```XamarinPractice``` directory.
 
 Then select and open ```FirstMobileApp.sln```
 
@@ -40,15 +40,15 @@ Then select and open ```FirstMobileApp.sln```
 ### Visuals
 
 ### Application Icon
-![Image 1](https://github.com/biniamsea2/Async-Inn/blob/master/AsyncInn2.png)
+![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/20191210_200751%5B1%5D.jpg)
 ### Home Screen
-![Image 1](https://github.com/biniamsea2/Async-Inn/blob/master/AyncINN/Screenshot%20(57).png)
+![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-200704%5B1%5D.jpg)
 ### Images
-![Image 1](https://github.com/biniamsea2/Async-Inn/blob/master/AyncINN/Screenshot%20(58).png)
+![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192741%5B1%5D.jpg)
 ### Images
-![Image 1](https://github.com/biniamsea2/Async-Inn/blob/master/AyncINN/Screenshot%20(62).png)
+![Image 1](https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192745%5B1%5D.jpg)
 ### Images
-![Image 1](https://github.com/biniamsea2/Async-Inn/blob/master/AyncINN/Screenshot%20(61).png)
+![Image 1]https://github.com/biniamsea2/XamarinPractice/blob/master/Screenshot_20191210-192754%5B1%5D.jpg)
 
 ---
 
